@@ -6,23 +6,22 @@ The goal is a 1:1 experience so you can follow DHH's dotfiles and muscle memory 
 
 ## Requirements
 
+- [eza](https://github.com/eza-community/eza) for a modern alternative to ls
 - [`mise`](https://mise.jdx.dev/) for runtime/toolchain management
 - [`zoxide`](https://github.com/ajeetdsouza/zoxide) for smarter directory jumps
 - [`starship`](https://starship.rs/) for the prompt
 - [`fzf`](https://github.com/junegunn/fzf) for fuzzy file and command search
-- [`PatrickF1/fzf.fish`](https://github.com/PatrickF1/fzf.fish) for fish bindings (`fisher install PatrickF1/fzf.fish`)
-
-Install and configure these first so the functions provided here can find them.
 
 ## Installation
 
-Install via [fisher](https://github.com/jorgebucaran/fisher):
+1. Install the [Fish shell](https://fishshell.com)
+2. Install [fisher](https://github.com/jorgebucaran/fisher)
+3. `fisher install PatrickF1/fzf.fish`
+4. `fisher install crmne/omafish`
 
-```fish
-fisher install crmne/omafish
-```
+If you're not on Omarchy, you'll need to copy [starship.toml][] to `~/.config/starship.toml`.
 
-Updating follows the same flow:
+## Update
 
 ```fish
 fisher update crmne/omafish
