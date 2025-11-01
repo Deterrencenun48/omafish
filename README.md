@@ -9,6 +9,8 @@ The goal is a 1:1 experience so you can follow DHH's dotfiles and muscle memory 
 - [`mise`](https://mise.jdx.dev/) for runtime/toolchain management
 - [`zoxide`](https://github.com/ajeetdsouza/zoxide) for smarter directory jumps
 - [`starship`](https://starship.rs/) for the prompt
+- [`fzf`](https://github.com/junegunn/fzf) for fuzzy file and command search
+- [`PatrickF1/fzf.fish`](https://github.com/PatrickF1/fzf.fish) for fish bindings (`fisher install PatrickF1/fzf.fish`)
 
 Install and configure these first so the functions provided here can find them.
 
@@ -35,4 +37,3 @@ MIT
 ## Acknowledgements
 
 Big thanks to DHH for the original [omarchy](https://github.com/basecamp/omarchy) dotfiles.
-
