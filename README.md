@@ -28,8 +28,6 @@ Updating follows the same flow:
 fisher update crmne/omafish
 ```
 
-Once installed, start a new shell session to pick up the configuration.
-
 ## License
 
 MIT
