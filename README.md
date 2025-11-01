@@ -19,7 +19,7 @@ The goal is a 1:1 experience so you can follow DHH's dotfiles and muscle memory 
 3. `fisher install PatrickF1/fzf.fish`
 4. `fisher install crmne/omafish`
 
-If you're not on Omarchy, you'll need to copy [starship.toml][] to `~/.config/starship.toml`.
+If you're not on Omarchy, you'll need to copy [starship.toml](starship.toml) to `~/.config/starship.toml`.
 
 ## Update
 
